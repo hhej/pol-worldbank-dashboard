@@ -1,4 +1,4 @@
-Link to Webapp, deployed on Heroku: [https://world-bank-dashboard-api.herokuapp.com](https://world-bank-dashboard-api.herokuapp.com)
+Link to Webapp, deployed on Heroku: [https://pol-worldbank-dashboard.herokuapp.com/](https://pol-worldbank-dashboard.herokuapp.com/)
 
 # pol-worldbank-dashboard
 
