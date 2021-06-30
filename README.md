@@ -22,3 +22,8 @@ On a MacOS/linux system, installation is easy. Open a terminal, and go into
 the directory with the flask app files.
 
 Run `python worldbank.py` in the terminal.
+
+## Licensing, Authors, Acknowledgements
+This app was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). 
+
+Code templates and data were provided by Udacity. The data was originally sourced from World Bank.
