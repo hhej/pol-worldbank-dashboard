@@ -23,6 +23,14 @@ the directory with the flask app files.
 
 Run `python worldbank.py` in the terminal.
 
+## Web App Preview
+
+***Screenshot: Web App Dashboard***
+
+
+![Screenshot](
+https://github.com/hhej/pol-worldbank-dashboard/blob/edc3cbfc2fde7f6e9fe5dbdf7ac0cbab18913205/dashboard_worldbank.png)
+
 ## Licensing, Authors, Acknowledgements
 This app was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). 
 
